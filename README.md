@@ -1,2 +1,2 @@
-# ros_myo
-My graduation research programs
+# 卒業研究用リポジトリ
+卒業研究で作成したプログラムをGithub上で管理することにした
